@@ -1,5 +1,5 @@
 class Config:
-    USERNAME="atharvagta007@gmail.com"
-    PASSWORD="Subwayeetfresh"
+    USERNAME=""
+    PASSWORD=""
     NO_OFSONGS=""
     link_OF_PLAYLIST=""
