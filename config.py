@@ -1,5 +1,5 @@
 class Config:
-    USERNAME=""
-    PASSWORD=""
-    NO_OFSONGS=""
-    link_OF_PLAYLIST=""
+    USERNAME=""#add your username
+    PASSWORD=""#add your password
+    NO_OFSONGS=""#add the number of songs in your playlist/liked songs
+    link_OF_PLAYLIST=""#link to the playlist
